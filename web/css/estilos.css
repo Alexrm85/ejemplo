@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.guardar{
+    background-image: -webkit-gradient(linear, top, bottom, color-stop(0, #5CC3FF), color-stop(1, #0060BF));
+    background-image: -o-linear-gradient(top, #5CC3FF, #0060BF);
+    background-image: -moz-linear-gradient(top, #5CC3FF, #0060BF);
+    background-image: -webkit-linear-gradient(top, #5CC3FF, #0060BF);
+    background-image: linear-gradient(to bottom, #5CC3FF, #0060BF);
+    color: #fff;
+    padding: 5px;
+}
+
+.entrar{
+    background-image: -webkit-gradient(linear, top, bottom, color-stop(0, #4EFF54), color-stop(1, #5ABF4C));
+    background-image: -o-linear-gradient(top, #4EFF54, #5ABF4C);
+    background-image: -moz-linear-gradient(top, #4EFF54, #5ABF4C);
+    background-image: -webkit-linear-gradient(top, #4EFF54, #5ABF4C);
+    background-image: linear-gradient(to bottom, #4EFF54, #5ABF4C);
+    color: #fff;
+    padding: 6px;
+    width: 90px;
+}
+.inicio-sesion{
+    border-radius: 10px;
+    background-color: lightgray;
+}
+#cabecera{
+    padding-left: 10px;
+}
+
+#contenido{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu-contenido{
+    padding: 5px;
+}
+.menu-contenido a{
+    text-decoration: none;
+}
+
+.error{
+    color: #CC0000;
+}
+.exito{
+    color: #173ECC;
+}
+
+table{
+    padding: 5px;
+}
+.float{
+    float: left;
+}
+.clear{
+    clear: both;
+}
